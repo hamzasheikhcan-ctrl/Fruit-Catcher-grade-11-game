@@ -1,5 +1,5 @@
 # Fruit Catcher Game
-
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/65d549ee-716c-4680-bc3d-cd53ec6265bb" />
 A fast-paced, fullscreen arcade game built with Python and Pygame where players control a bowl to catch falling fruits while avoiding dangerous bombs. 
 Get 700 points under 60 seconds, and the victory is yours!
 
